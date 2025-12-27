@@ -13,7 +13,7 @@ Git & GitHub
 🔗 Live Demo: https://ananyatiwari850.github.io/Todo-List/  
 
 🌐 Portfolio
-🔗 https://ananyatiwari850.github.io/
+🔗 https://ananyatiwari850.github.io/portfolio/
 
 
 📫 Connect with me:
