@@ -15,4 +15,4 @@ Git & GitHub
 
 
 📫 Connect with me:
-LinkedIn: (https://www.linkedin.com/in/ananya-tiwari)
+LinkedIn: (https://www.linkedin.com/in/ananya-tiwari-28a9b6346/)
