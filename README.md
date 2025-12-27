@@ -10,10 +10,9 @@ Git & GitHub
 🔹 Projects:
 
 ✅ Todo List Web App 
-
 🔗 Live Demo: https://ananyatiwari850.github.io/Todo-List/  
-🌐 Portfolio
 
+🌐 Portfolio
 🔗 https://ananyatiwari850.github.io/
 
 
