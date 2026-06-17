@@ -43,8 +43,10 @@
 
 ## 🏆 GitHub Achievements
 
+## 🏆 GitHub Achievements
+
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AnanyaTiwari850&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AnanyaTiwari850&theme=radical&no-frame=true&margin-w=15" />
 </p>
 
 ✨ Achievements:
@@ -60,16 +62,12 @@
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="ananyatiwari850@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://github.com/AnanyaTiwari850">
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
-</a>
-
-<a href="https://leetcode.com/YOUR_USERNAME/">
-<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
 
 </p>
