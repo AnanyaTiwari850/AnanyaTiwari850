@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ananya Tiwari</h1>
 
-<h3 align="center">💻 Aspiring Full Stack Developer | 🚀 Hackathon Enthusiast</h3>
+<h3 align="center">💻 Aspiring Full Stack Developer </h3>
 
 ---
 
@@ -41,7 +41,23 @@
 
 ---
 
-## 🏆 GitHub Achievements
+## 🌸 GSSoC Achievements
+
+<p align="center">
+  <img src="blob:https://gssoc.girlscript.org/cd83cbd6-170c-40f0-9f04-aff09bd29bf6" width="140"/>
+  <img src="blob:https://gssoc.girlscript.org/b6414058-3c76-49bf-a1df-02d12811f5c5" width="140"/>
+  <img src="blob:https://gssoc.girlscript.org/66e87fcc-482d-45e1-82bb-f6488f9667fb" width="140"/>
+  <img src="blob:https://gssoc.girlscript.org/ee7d62cf-73b3-46db-bd3b-d4dbd22cd721" width="120"/>
+  <img src="blob:https://gssoc.girlscript.org/9aa76b39-f338-497a-94db-30d3916ca9a1" width="120"/>
+  <img src="blob:https://gssoc.girlscript.org/804085a1-54dd-41cf-a587-76269911443c" width="120"/>
+  <img src="blob:https://gssoc.girlscript.org/251da200-44b6-4e7f-997d-642d9e1b6a1e" width="120"/>
+
+</p>
+
+<p align="center">
+🚀 Contributing to Open Source through GSSoC
+</p>
+
 
 ## 🏆 GitHub Achievements
 
